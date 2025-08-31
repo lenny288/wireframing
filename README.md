@@ -1,1 +1,8 @@
 # wireframing
+wireframing is a visual blieprint layout of a digital product. it shows structure, layout and functionality of a page without focusing on colours,fonts or final design.
+IMPORTYANCE
+1.clarifies ideas early
+2.improves communication
+3.saves time and cost
+4.focuses on user expereience
+5.supporrts iterative design
